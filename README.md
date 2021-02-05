@@ -414,4 +414,7 @@ password-source-path: /path/to/my-special-gopass
 This will cause go-jira to use the `gopass` style cli interaction with the `my-special-gopass` binary.
 
 If you ommit the `password-source-path` option, either `gopass` (for `gopass`) or `pass` (for `pass`) 
-will be used.
+will be used
+
+#Credits
+I made dis....
